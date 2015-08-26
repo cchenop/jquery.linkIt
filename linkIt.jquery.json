@@ -1,0 +1,62 @@
+{
+    "name": "LinkIt",
+    "title": "LinkIt jQuery plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content",
+    
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "dark chef",
+        "url": "http://techguywebsolutions.com"
+    },
+    "maintainers": [
+        {
+            "name": "dark chef",
+            "email": "cchenjob15@gmail.com",
+            "url": "http://techguywebsolutions.com"
+        }
+    
+    ],
+    "licenses": [
+        {
+            "type": "MIT"
+            
+        
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/jquery/jquery-color",
+    "docs": "https://github.com/jquery/jquery-color",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5 "
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
